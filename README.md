@@ -207,13 +207,14 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![1](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/93fefefd-148a-4fde-950e-699fede8a721)
-![download](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/595bc8a3-c963-4201-ba94-2e28cc5b2d54)
+![download](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/55877663-e490-4a1e-aafc-37bcaf0295a5)
+
 
 
 ### Classification Report
 
-![2](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/b7ea37b4-70ba-4259-aada-b9ea1ccabc9e)
+![2](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/fc993011-2497-4dd3-b63d-1b48dcbc2b2c)
+
 
 
 ### Confusion Matrix
