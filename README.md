@@ -51,8 +51,8 @@ We demonstrate the model's practical use by randomly selecting and testing a new
 ## PROGRAM
 
 ```
-Developed By: Jegathish S
-Register No: 212221230041
+Developed By: Pragatheesvaran AB
+Register No: 212221240039
 ```
 Import necessary libraries:
 ```
