@@ -18,7 +18,8 @@ Our dataset comprises 27,558 cell images, evenly split between parasitized and u
 
 ## Neural Network Model
 
-![1](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/730c2e96-967e-4c27-bf6c-06f0a117261b)![download](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/daf07537-2da0-492e-b0f9-5c34e257df3e)
+![1](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/c7a4e75d-857b-4503-9cf1-4a04085dba39)
+
 
 
 
