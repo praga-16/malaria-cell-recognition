@@ -13,11 +13,14 @@ Traditional methods of malaria diagnosis involve manual inspection of blood smea
 Our dataset comprises 27,558 cell images, evenly split between parasitized and uninfected cells. These images have been meticulously collected and annotated by medical experts, making them a reliable source for training and testing our deep neural network.
 
 ## Dataset:
-![output](5.jpg)
+![5](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/71ffc418-5cc1-468b-a38b-7335ee4742b4)
+
 
 ## Neural Network Model
 
-![output](1.png)
+![1](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/730c2e96-967e-4c27-bf6c-06f0a117261b)![download](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/daf07537-2da0-492e-b0f9-5c34e257df3e)
+
+
 
 ## DESIGN STEPS
 
@@ -204,18 +207,23 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![output](download.png)
+![1](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/93fefefd-148a-4fde-950e-699fede8a721)
+![download](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/595bc8a3-c963-4201-ba94-2e28cc5b2d54)
+
 
 ### Classification Report
 
-![output](2.png)
+![2](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/b7ea37b4-70ba-4259-aada-b9ea1ccabc9e)
+
 
 ### Confusion Matrix
 
-![output](3.png)
+![3](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/24741f6c-6bfc-427e-9bce-657423e12e16)
+
 ### New Sample Data Prediction
 
-![output](4.png)
+![4](https://github.com/praga-16/malaria-cell-recognition/assets/95266924/8228fad9-1492-4f55-9c50-40593020fe0d)
+
 
 ## RESULT
 The model's performance is evaluated through training and testing, and it shows potential for assisting healthcare professionals in diagnosing malaria more efficiently and accurately.
